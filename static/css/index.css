@@ -157,3 +157,8 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+
+.exploration video {
+  height: 400px;
+}
